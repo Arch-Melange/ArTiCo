@@ -273,3 +273,35 @@ git
 
 #grub theme
 alci-grub-theme-git
+
+#Tiling Window Managers
+sway
+i3
+mango
+hyprland
+awesome
+bspwm
+dwm
+frankenwm
+herbstluftwm
+leftwm
+notion
+qtile
+ratpoison
+snapwm
+spetrwm
+xmonad
+cagebreak
+jay
+ionwl
+miraclewm
+niri
+swayfx
+velox
+cwc
+dwl
+mangowm
+pinnacle-comp
+river-classic
+cage
+
